@@ -1,0 +1,19 @@
+.square {
+    display: block;
+    width: 90px;
+    height: 90px;
+    background: rgb(104, 97, 58);
+    margin: 5px;
+    transition: all .2s;
+    font-size: 55px;
+    align-self: center;
+    text-align: center;
+}
+
+#X {
+    color: rgba(138, 134, 123, 0.836);
+}
+
+#O {
+    color: rgba(138, 134, 123, 0.836);
+}
